@@ -1,0 +1,2 @@
+235 rsp = self.es.recv_json()
+li yerlerde _ gözükmeme ve boşluk olma sorunu var.

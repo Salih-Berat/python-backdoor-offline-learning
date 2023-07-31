@@ -1,0 +1,10 @@
+pyinstaller
+pyscreeze; platform_system != "Linux"
+Xlib; platform_system == "Linux"
+pynput
+pycryptodome
+pillow
+pywin32; platform_system == "Windows"
+wmi; platform_system == "Windows"
+future
+pyDH
