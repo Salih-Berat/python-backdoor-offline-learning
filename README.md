@@ -6,9 +6,13 @@ The Backdoor Page: https://github.com/xp4xbox/Python-Backdoor/tree/master
 There is only in submodule is wesng because other submodules is so wide and turning them to PDFs is toilsome.
 
 Main Goal on this Repository:
+
 Some people wants studying software languages just on paper. And me too wanted it.
+
 with Almighty Allah's help i did it inshallah.
+
 This repository includes a python backdoor program's printable* source code and for the understanding code enough libraries.
+
 With these you just can download and print and learn them on the paper.
 
 The Python-Basics file includes
