@@ -22,19 +22,33 @@ So if you are in doubt about "am i should print this pdf". My answer would be fo
 *: I mean with printable: Code fitted for paper. For example unfitted code on a paper seems like this:
 
 A bunch of code
+
 ...
+
 ...
+
 ...
+
 if 1 == 1:
+
 END OF PAPER
+
   print("1 is 1!")
+
 
 But a fitted code on a paper seems like this:
 
+
 A bunch of code
 ...
+
 ...
+
 ...
+
 END OF PAPER
+
 if 1 == 1:
+
   print("1 is 1!")
+  
